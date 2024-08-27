@@ -1,7 +1,4 @@
-from kivy.app import App
-from kivy.lang import Builder
 from kivy.properties import StringProperty, BooleanProperty
-from kivy.uix.widget import Widget
 from kivy.uix.gridlayout import GridLayout
 from kivy.app import App
 from kivy.uix.textinput import TextInput
